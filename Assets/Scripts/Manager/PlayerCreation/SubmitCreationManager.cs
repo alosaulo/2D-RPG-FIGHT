@@ -18,7 +18,7 @@ public class SubmitCreationManager : MonoBehaviour {
             SceneManager.LoadScene(1);
         }
         else {
-            print("Fuck!");
+            playerCreation.PnlWarning.SetActive(true);
         }
     }
 

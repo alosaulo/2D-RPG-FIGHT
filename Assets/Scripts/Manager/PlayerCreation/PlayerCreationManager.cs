@@ -8,6 +8,8 @@ public class PlayerCreationManager : MonoBehaviour {
 
     public PlayerPersona Player;
 
+    public GameObject PnlWarning;
+    
     [Header("Validação")]
     public ToggleGroup tglClasses;
     public ToggleGroup tglRaces;
