@@ -1,11 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public abstract class Races {
-
-    public int modFOR { get; set; }
-    public int modINT { get; set; }
-    public int modDEX { get; set; }
-    public string RaceDescription { get; set; }
-
+[System.Serializable]
+public class Races
+{
+    public string RaceName;
+    public string RaceDescription;
+    public int modFOR;
+    public int modINT;
+    public int modDEX;
 }

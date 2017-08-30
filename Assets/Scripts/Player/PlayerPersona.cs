@@ -2,16 +2,14 @@
 using System.Collections;
 using System.Collections.Generic;
 
+[System.Serializable]
 public class PlayerPersona : Persona {
-
+	
+	[Header("Inventory")]
     public Inventory myInventory;
-
+	
+	[Header(("Gold"))]
     public double myGold;
-
-    [Header("Race Stats")]
-    public int RaceINT;
-    public int RaceDEX;
-    public int RaceSTR;
 
     private void Awake()
     {

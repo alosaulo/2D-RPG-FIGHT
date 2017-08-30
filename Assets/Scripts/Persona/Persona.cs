@@ -2,29 +2,31 @@
 using System.Collections;
 using System.Collections.Generic;
 
+[System.Serializable]
 public class Persona : MonoBehaviour
 {
-    public Races myRace { get; set; }
-    public Classes myClass { get; set;}
-    public Attributes myAttributes { get; set;}
-    public Stats myStats { get; set;}
 
-    public string charaName {get; set;}
+    public Races myRace;
+    public Classes myClass;
+    public Attributes myAttributes;
+    public Stats myStats;
 
-    public int lvlpoints { get; set; }
-
-    protected float ATK { get; set; }
-    protected float DEF { get; set; }
+    [Header("Character Name")] public string charaName;
+    
+    [Header("Experience")]public int lvlpoints;
+    
+    [Header("Total Atk")]protected float ATK;
+    [Header("Total Def")]protected float DEF;
 
     public void Recharge(Potions potion) {
         float percentage;
         if (potion.potionType == Potions.PotionType.Health)
         {
-            percentage = potion.rechargeValue * myStats.MAXhealthPoints;
+            percentage = potion.rechargeValue * myStats.MAX_healthPoints;
             myStats.healthPoints = percentage + myStats.healthPoints;
         }
         else {
-            percentage = potion.rechargeValue * myStats.MAXmanaPoints;
+            percentage = potion.rechargeValue * myStats.MAX_manaPoints;
             myStats.manaPoints = percentage + myStats.manaPoints;
         }
     }

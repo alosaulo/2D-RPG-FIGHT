@@ -2,7 +2,9 @@
 using System.Collections;
 
 public class Elf : Races {
-    public Elf() {
+    public Elf()
+    {
+        RaceName = "Elfo";
         RaceDescription = "Ganha modificador de +1 em inteligência e destreza e -2 em força";
         modFOR = -2;
         modDEX = 1;

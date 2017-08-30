@@ -25,7 +25,7 @@ public class ShoppingManager : MonoBehaviour {
         _instance = this;
         FillStock();
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerPersona>();
-        player.myStats.healthPoints = player.myStats.MAXhealthPoints;
+        player.myStats.healthPoints = player.myStats.MAX_healthPoints;
     }
 
     void FillStock() {

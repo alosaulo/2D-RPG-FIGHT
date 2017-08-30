@@ -8,6 +8,7 @@ public class Mage : Classes {
 
     public Mage() {
         SetSkills();
+        ClassName = "Mage";
         ClassDescription = "Ganha bonus de 75% da sua mana total, recupera mana por turno. Seu ataque é baseado em sua inteligência.";
     }
 

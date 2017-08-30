@@ -2,8 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Attributes {
-    public int strength { get; set; }
-    public int dexterity { get; set; }
-    public int intelligence { get; set; }
+[System.Serializable]
+public class Attributes
+{
+    [Header("Attributes")]
+    public int strength;
+    public int dexterity;
+    public int intelligence;
 }

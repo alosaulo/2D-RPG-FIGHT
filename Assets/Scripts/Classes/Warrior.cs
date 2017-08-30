@@ -5,6 +5,7 @@ public class Warrior : Classes {
 
     public Warrior() {
         SetSkills();
+        ClassName = "Warrior";
         ClassDescription = "Ganhe bonus de 25% em sua vida total. Seu ataque é baseado em sua força.";
     }
 
@@ -16,7 +17,4 @@ public class Warrior : Classes {
         skills.Add(skill1);
         skills.Add(skill2);
     }
-
-    
-
 }

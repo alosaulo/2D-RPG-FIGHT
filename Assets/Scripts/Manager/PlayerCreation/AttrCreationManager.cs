@@ -63,6 +63,29 @@ public class AttrCreationManager : MonoBehaviour {
                 }
                 break;
         }
+        ChangeVitalAttr();
         playerManager.ShowAttributes();
     }
+
+    void ChangeVitalAttr()
+    {
+        string className = Player.myClass.ClassName;
+        if (className != null)
+        {
+            switch (className)
+            {
+                case("Warrior"):
+                    
+                    break;
+                case("Hunter"):
+                    
+                    break;
+                case("Mage"):
+                    
+                    break;
+                    
+            }
+        }
+    }
+    
 }

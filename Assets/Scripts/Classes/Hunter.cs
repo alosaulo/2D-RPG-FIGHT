@@ -5,7 +5,8 @@ public class Hunter : Classes {
 
     public Hunter() {
         SetSkills();
-        ClassDescription = "Possui uma chance maior de esquivar do ataque do inimigo (25% de sua destreza) e Seu ataque é baseado em sua destreza.";
+        ClassName = "Hunter";
+        ClassDescription = "Possui uma chance maior de esquivar do ataque do inimigo (25% de sua destreza) e seu ataque é baseado em sua destreza.";
     }
 
     protected override void SetSkills()

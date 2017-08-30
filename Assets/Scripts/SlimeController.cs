@@ -44,7 +44,16 @@ public class SlimeController : MonoBehaviour {
 		}
 	}
 
-	void CheckPlayerInBounds(){
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "Weapon")
+        {
+            Debug.Log("Aíe");
+        }
+    }
+
+
+    void CheckPlayerInBounds(){
 		if (InterestBoundary.IsTouching(playerCollider)) {
 			Debug.Log ("Estou tocando o player");
 		}

@@ -32,6 +32,10 @@ public class PlayerCreationManager : MonoBehaviour {
     public Text intValue;
     public Text intModValue;
 
+    [Header("Vida e Mana")] 
+    public Text qntVida;
+    public Text qntMana;
+    
     // Use this for initialization
     void Start () {
         
