@@ -15,6 +15,7 @@ public class SubmitCreationManager : MonoBehaviour {
     public void SubmitPlayer() {
         if (playerCreation.CheckValidation())
         {
+            playerCreation.SetPlayer();
             SceneManager.LoadScene(1);
         }
         else {

@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Warrior : Classes {   
+public class Knight : Classes {   
 
-    public Warrior() {
+    public Knight() {
         SetSkills();
-        ClassName = "Warrior";
+        ClassName = "Knight";
         ClassDescription = "Ganhe bonus de 25% em sua vida total. Seu ataque é baseado em sua força.";
     }
 

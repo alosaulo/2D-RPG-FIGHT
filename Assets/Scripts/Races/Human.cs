@@ -4,7 +4,7 @@ using System.Collections;
 public class Human : Races {
     public Human()
     {
-        RaceName = "Humano";
+        RaceName = "Human";
         RaceDescription = "Não há perda de atributos no modificador";
         modFOR = 0;
         modDEX = 0;

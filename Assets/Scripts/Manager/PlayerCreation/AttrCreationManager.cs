@@ -11,7 +11,7 @@ public class AttrCreationManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         playerManager = GetComponent<PlayerCreationManager>();
-        Player = playerManager.Player;
+        Player = playerManager.PlayerAux;
         Player.lvlpoints = 10;
         playerManager.ShowAttributes();
     }
@@ -63,29 +63,7 @@ public class AttrCreationManager : MonoBehaviour {
                 }
                 break;
         }
-        ChangeVitalAttr();
+        Player.ChangeAttrs();
         playerManager.ShowAttributes();
     }
-
-    void ChangeVitalAttr()
-    {
-        string className = Player.myClass.ClassName;
-        if (className != null)
-        {
-            switch (className)
-            {
-                case("Warrior"):
-                    
-                    break;
-                case("Hunter"):
-                    
-                    break;
-                case("Mage"):
-                    
-                    break;
-                    
-            }
-        }
-    }
-    
 }

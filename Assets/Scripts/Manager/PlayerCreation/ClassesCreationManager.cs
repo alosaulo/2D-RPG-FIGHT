@@ -10,12 +10,12 @@ public class ClassesCreationManager : MonoBehaviour {
     // Use this for initialization
     void Start () {
         playerManager = GetComponent<PlayerCreationManager>();
-        Player = playerManager.Player;
+        Player = playerManager.PlayerAux;
 	}
 
     public void SetPlayerWarrior()
     {
-        Player.myClass = new Warrior();
+        Player.myClass = new Knight();
         playerManager.ShowClassSkills();
     }
 

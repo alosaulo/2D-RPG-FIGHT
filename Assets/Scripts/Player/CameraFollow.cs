@@ -10,8 +10,9 @@ public class CameraFollow : MonoBehaviour {
     Vector3 pos;
 
 	// Use this for initialization
-	void Start () {
-		
+	void Start ()
+	{
+	    Target = GameObject.FindGameObjectsWithTag("Player")[0];
 	}
 	
 	// Update is called once per frame

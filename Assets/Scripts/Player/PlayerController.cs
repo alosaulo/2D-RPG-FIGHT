@@ -13,7 +13,6 @@ public class PlayerController : MonoBehaviour {
         Baixo
     }
 
-
     enum estadoPersonagem {
         ParadoBaixo,
         ParadoCima,
@@ -49,6 +48,7 @@ public class PlayerController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+	    DontDestroyOnLoad(gameObject);
         myAnimator = GetComponent<Animator>();
         myBody = GetComponent<Rigidbody2D>();
 		myCollider = GetComponent<Collider2D>();
@@ -58,10 +58,8 @@ public class PlayerController : MonoBehaviour {
 	void Update () {
         horAxis = Input.GetAxis("Horizontal");
         verAxis = Input.GetAxis("Vertical");
-	    //Debug.Log(estadoAtual);
 	    AttackingAnimation();
         ChangeAnimationBlendTree();
-        //ChangeAnimation();
 	}
 
     private void FixedUpdate()

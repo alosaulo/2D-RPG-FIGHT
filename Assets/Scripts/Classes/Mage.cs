@@ -4,8 +4,6 @@ using System.Collections.Generic;
 
 public class Mage : Classes {
 
-    
-
     public Mage() {
         SetSkills();
         ClassName = "Mage";

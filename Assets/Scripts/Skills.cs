@@ -1,15 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[System.Serializable]
 public class Skills{
     public enum type {
         attack,
         buff
     }
-    public type skillType { get; set; }
-    public string skillName { get; set; }
-    public float damage { get; set;}
-    public string description { get; set; }
+
+    public type skillType;
+    public string skillName;
+    public float damage;
+    public string description;
 
     public Skills() {
 

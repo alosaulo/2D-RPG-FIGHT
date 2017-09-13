@@ -10,7 +10,7 @@ public class RacesCreationManager : MonoBehaviour {
     private void Start()
     {
         playerManager = GetComponent<PlayerCreationManager>();
-        Player = playerManager.Player;
+        Player = playerManager.PlayerAux;
     }
 
     public void SetPlayerHuman()

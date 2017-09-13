@@ -4,9 +4,14 @@ using UnityEngine.UI;
 
 
 [System.Serializable]
-public class PlayerCreationManager : MonoBehaviour {
+public class PlayerCreationManager : MonoBehaviour
+{   
+    [HideInInspector]
+    public GameObject PlayerGameObject;
 
-    public PlayerPersona Player;
+    public PlayerPersona PlayerAux;
+
+    public GameObject PlayerSpawn;
 
     public GameObject PnlWarning;
     
@@ -33,7 +38,7 @@ public class PlayerCreationManager : MonoBehaviour {
     public Text intModValue;
 
     [Header("Vida e Mana")] 
-    public Text qntVida;
+    public Text qntLife;
     public Text qntMana;
     
     // Use this for initialization
@@ -43,12 +48,13 @@ public class PlayerCreationManager : MonoBehaviour {
 
     public void ShowRaceSkills() {
         txtHabRaces.text = "";
-        if (Player.myRace != null)
+        if (PlayerAux.myRace != null)
         {
-            txtHabRaces.text = Player.myRace.RaceDescription;
-            forceModValue.text = Player.myRace.modFOR.ToString();
-            dexModValue.text = Player.myRace.modDEX.ToString();
-            intModValue.text = Player.myRace.modINT.ToString();
+            txtHabRaces.text = PlayerAux.myRace.RaceDescription;
+            forceModValue.text = PlayerAux.myRace.modFOR.ToString();
+            dexModValue.text = PlayerAux.myRace.modDEX.ToString();
+            intModValue.text = PlayerAux.myRace.modINT.ToString();
+            ChangeMainPlayer();
         }
     }
 
@@ -56,24 +62,27 @@ public class PlayerCreationManager : MonoBehaviour {
         txtHabClasses.text = "";
         txtSkill1.text = "";
         txtSkill2.text = "";
-        if (Player.myClass != null) {
-            txtHabClasses.text = Player.myClass.ClassDescription;
-            txtMainSkill1.text = Player.myClass.skills[0].skillName;
-            txtMainSkill2.text = Player.myClass.skills[1].skillName;
-            txtSkill1.text = Player.myClass.skills[0].description;
-            txtSkill2.text = Player.myClass.skills[1].description;
+        if (PlayerAux.myClass != null) {
+            txtHabClasses.text = PlayerAux.myClass.ClassDescription;
+            txtMainSkill1.text = PlayerAux.myClass.skills[0].skillName;
+            txtMainSkill2.text = PlayerAux.myClass.skills[1].skillName;
+            txtSkill1.text = PlayerAux.myClass.skills[0].description;
+            txtSkill2.text = PlayerAux.myClass.skills[1].description;
+            ChangeMainPlayer();
         }
     }
 
     public void ShowAttributes() {
-        forceValue.text = Player.myAttributes.strength.ToString();
-        dexValue.text = Player.myAttributes.dexterity.ToString();
-        intValue.text = Player.myAttributes.intelligence.ToString();
-        txtQntPnts.text = Player.lvlpoints.ToString();
+        forceValue.text = PlayerAux.myAttributes.strength.ToString();
+        dexValue.text = PlayerAux.myAttributes.dexterity.ToString();
+        intValue.text = PlayerAux.myAttributes.intelligence.ToString();
+        txtQntPnts.text = PlayerAux.lvlpoints.ToString();
+        qntMana.text = PlayerAux.myStats.MAX_manaPoints.ToString();
+        qntLife.text = PlayerAux.myStats.MAX_healthPoints.ToString();
     }
 
     public bool CheckValidation() {
-        if (Player.lvlpoints > 0 || tglClasses.AnyTogglesOn() == false || tglRaces.AnyTogglesOn() == false 
+        if (PlayerAux.lvlpoints > 0 || tglClasses.AnyTogglesOn() == false || tglRaces.AnyTogglesOn() == false 
             || inputText.text == "") {
             return false;
         }
@@ -82,4 +91,27 @@ public class PlayerCreationManager : MonoBehaviour {
         }
     }
 
+    public void SetPlayer()
+    {
+        PlayerGameObject.GetComponent<PlayerPersona>().SetPlayerPersona(PlayerAux);
+        PlayerGameObject.GetComponent<PlayerController>().Speed = PlayerAux.myAttributes.dexterity * 1000;
+    }
+
+    public void ChangeMainPlayer()
+    {
+        string playerResourceName = "Player";
+        if (PlayerGameObject != null)
+        {
+            Destroy(PlayerGameObject);
+        }
+        if (PlayerAux.myClass.ClassName != "" && PlayerAux.myRace.RaceName != "")
+        {   
+            playerResourceName += PlayerAux.myRace.RaceName;
+            playerResourceName += PlayerAux.myClass.ClassName;
+            Debug.Log(playerResourceName);
+            GameObject gb = Resources.Load(playerResourceName) as GameObject;
+            PlayerGameObject = Instantiate(gb, PlayerSpawn.transform.position, Quaternion.identity);
+            PlayerGameObject.GetComponent<PlayerController>().Speed = 0;
+        }
+    }
 }
