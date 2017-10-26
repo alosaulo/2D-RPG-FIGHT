@@ -10,5 +10,5 @@ public class Classes
    public string ClassDescription;
    public List<Skills> skills = new List<Skills>();
 
-   protected virtual void SetSkills(){}
+    protected virtual void SetSkills(){}
 }

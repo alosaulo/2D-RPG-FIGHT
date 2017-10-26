@@ -1,97 +1,227 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Classes">
-    <Position X="12" Y="1.25" Width="1.5" />
+  <Class Name="Classes" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAABAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAABAAAACAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
       <FileName>Assets\Scripts\Classes\Classes.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Hunter">
-    <Position X="15.5" Y="4.5" Width="1.5" />
+    <Position X="10" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Assets\Scripts\Classes\Hunter.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Mage">
-    <Position X="17.75" Y="4.5" Width="1.5" />
+  <Class Name="Knight">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Classes\Knight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mage" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Assets\Scripts\Classes\Mage.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Persona" Collapsed="true">
-    <Position X="6.75" Y="1.25" Width="1.5" />
+  <Class Name="HealthMana" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>gAAAIEAAAAACgEAAAAAgEAAAAAEAAAAAQAAAAAIAAAA=</HashCode>
-      <FileName>Assets\Scripts\Classes\Persona.cs</FileName>
+      <HashCode>AAAAAAAAAAgAAAAAAABAAEAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\HealthMana.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Player" Collapsed="true">
-    <Position X="6.75" Y="2.75" Width="1.5" />
+  <Class Name="HealthManaControl" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEA=</HashCode>
-      <FileName>Assets\Scripts\Player.cs</FileName>
+      <HashCode>AAQAAAAAACACAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\HealthManaControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQEAgCAAgAgAAAAAAMAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Items" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAiAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Items\Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Potions" Collapsed="true">
+    <Position X="12.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Potion\Potions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameSceneManager" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAAAAAAACAAAAAACAAAAAAAAAAAAABAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Manager\GameSceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttrCreationManager" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAAARABgAAQAAAAAAAEAAAAQAACAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\PlayerCreation\AttrCreationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassesCreationManager" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAEAACAAAAADAAIAAAIAAAAAAAAAEAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\PlayerCreation\ClassesCreationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCreationManager" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAACAAABgAAAAAAAQAAAAAAAAAAAAAAEAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\PlayerCreation\PlayerCreationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RacesCreationManager" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAASAAAAAAAAAAAAAQBAAAAAAAFgAAAUAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\PlayerCreation\RacesCreationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubmitCreationManager" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAIAAABCAEAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\PlayerCreation\SubmitCreationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShoppingManager" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAAAAAAAAAAAAAEAAEAAIAABAgABAAAUAEA=</HashCode>
+      <FileName>Assets\Scripts\Manager\ShoppingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneTags" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Manager\Tags\SceneTags.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Attributes" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Persona\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Persona" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAAEAACAAAAAAAAEAAAAAEBEAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Persona\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dwarf">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Persona\Races\Dwarf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Elf">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Persona\Races\Elf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Persona\Races\Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Races" Collapsed="true">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAgAAAAAIAAAAAAAACAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Persona\Races\Races.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stats" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAQAAEAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Persona\Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraFollow" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACACAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAFAAAAiACAAACEIAAAAQJAIAACAgAAAQAAwAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerManager" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAAAAAAAAAAAAAAAAAgAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerPersona">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAACgAAAAAABYAEAAQgAAIAAAAAAAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerPersona.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Skills" Collapsed="true">
-    <Position X="14.75" Y="1.25" Width="1.5" />
-    <Compartments>
-      <Compartment Name="Nested Types" Collapsed="false" />
-    </Compartments>
-    <NestedTypes>
-      <Enum Name="Skills.type" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>Assets\Scripts\Skills.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Enum>
-    </NestedTypes>
+    <Position X="9.5" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAgAAAIAAAAEAAACAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Assets\Scripts\Skills.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Warrior">
-    <Position X="20" Y="4.5" Width="1.5" />
+  <Class Name="SlimeController" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Assets\Scripts\Classes\Warrior.cs</FileName>
+      <HashCode>AAQAAAAAAGAAAACAIAAAAAAAQEAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SlimeController.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Dwarf" Collapsed="true">
-    <Position X="7.5" Y="4.75" Width="1.5" />
+  <Class Name="TransactionManager" Collapsed="true">
+    <Position X="24" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Assets\Scripts\Races\Dwarf.cs</FileName>
+      <HashCode>AQAAIAEiAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\TransactionManager.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Elf" Collapsed="true">
-    <Position X="12" Y="4.75" Width="1.5" />
+  <Class Name="SlimeBehavior" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Assets\Scripts\Races\Elf.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="Human" Collapsed="true">
-    <Position X="9.75" Y="4.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Assets\Scripts\Races\Human.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="Races" Collapsed="true">
-    <Position X="9.75" Y="3" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAgAAAAAIAAAAAAAACAAAgAAAAAAAAAA=</HashCode>
-      <FileName>Assets\Scripts\Races\Races.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="PlayerCreationManager">
-    <Position X="9.75" Y="5.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>ADQJCAEAASAAAIADAAIABAIQRAAAAAAABgAAAUAACAA=</HashCode>
-      <FileName>Assets\Scripts\PlayerCreationManager.cs</FileName>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SlimeBehavior.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

@@ -1,0 +1,2773 @@
+fileFormatVersion: 2
+guid: 83e7ca50b62f5eb4d926f19e0689c102
+timeCreated: 1509017311
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "orc-ca\xE7ador_0"
+    21300002: "orc-ca\xE7ador_1"
+    21300004: "orc-ca\xE7ador_2"
+    21300006: "orc-ca\xE7ador_3"
+    21300008: "orc-ca\xE7ador_4"
+    21300010: "orc-ca\xE7ador_5"
+    21300012: "orc-ca\xE7ador_6"
+    21300014: "orc-ca\xE7ador_7"
+    21300016: "orc-ca\xE7ador_8"
+    21300018: "orc-ca\xE7ador_9"
+    21300020: "orc-ca\xE7ador_10"
+    21300022: "orc-ca\xE7ador_11"
+    21300024: "orc-ca\xE7ador_12"
+    21300026: "orc-ca\xE7ador_13"
+    21300028: "orc-ca\xE7ador_14"
+    21300030: "orc-ca\xE7ador_15"
+    21300032: "orc-ca\xE7ador_16"
+    21300034: "orc-ca\xE7ador_17"
+    21300036: "orc-ca\xE7ador_18"
+    21300038: "orc-ca\xE7ador_19"
+    21300040: "orc-ca\xE7ador_20"
+    21300042: "orc-ca\xE7ador_21"
+    21300044: "orc-ca\xE7ador_22"
+    21300046: "orc-ca\xE7ador_23"
+    21300048: "orc-ca\xE7ador_24"
+    21300050: "orc-ca\xE7ador_25"
+    21300052: "orc-ca\xE7ador_26"
+    21300054: "orc-ca\xE7ador_27"
+    21300056: "orc-ca\xE7ador_28"
+    21300058: "orc-ca\xE7ador_29"
+    21300060: "orc-ca\xE7ador_30"
+    21300062: "orc-ca\xE7ador_31"
+    21300064: "orc-ca\xE7ador_32"
+    21300066: "orc-ca\xE7ador_33"
+    21300068: "orc-ca\xE7ador_34"
+    21300070: "orc-ca\xE7ador_35"
+    21300072: "orc-ca\xE7ador_36"
+    21300074: "orc-ca\xE7ador_37"
+    21300076: "orc-ca\xE7ador_38"
+    21300078: "orc-ca\xE7ador_39"
+    21300080: "orc-ca\xE7ador_40"
+    21300082: "orc-ca\xE7ador_41"
+    21300084: "orc-ca\xE7ador_42"
+    21300086: "orc-ca\xE7ador_43"
+    21300088: "orc-ca\xE7ador_44"
+    21300090: "orc-ca\xE7ador_45"
+    21300092: "orc-ca\xE7ador_46"
+    21300094: "orc-ca\xE7ador_47"
+    21300096: "orc-ca\xE7ador_48"
+    21300098: "orc-ca\xE7ador_49"
+    21300100: "orc-ca\xE7ador_50"
+    21300102: "orc-ca\xE7ador_51"
+    21300104: "orc-ca\xE7ador_52"
+    21300106: "orc-ca\xE7ador_53"
+    21300108: "orc-ca\xE7ador_54"
+    21300110: "orc-ca\xE7ador_55"
+    21300112: "orc-ca\xE7ador_56"
+    21300114: "orc-ca\xE7ador_57"
+    21300116: "orc-ca\xE7ador_58"
+    21300118: "orc-ca\xE7ador_59"
+    21300120: "orc-ca\xE7ador_60"
+    21300122: "orc-ca\xE7ador_61"
+    21300124: "orc-ca\xE7ador_62"
+    21300126: "orc-ca\xE7ador_63"
+    21300128: "orc-ca\xE7ador_64"
+    21300130: "orc-ca\xE7ador_65"
+    21300132: "orc-ca\xE7ador_66"
+    21300134: "orc-ca\xE7ador_67"
+    21300136: "orc-ca\xE7ador_68"
+    21300138: "orc-ca\xE7ador_69"
+    21300140: "orc-ca\xE7ador_70"
+    21300142: "orc-ca\xE7ador_71"
+    21300144: "orc-ca\xE7ador_72"
+    21300146: "orc-ca\xE7ador_73"
+    21300148: "orc-ca\xE7ador_74"
+    21300150: "orc-ca\xE7ador_75"
+    21300152: "orc-ca\xE7ador_76"
+    21300154: "orc-ca\xE7ador_77"
+    21300156: "orc-ca\xE7ador_78"
+    21300158: "orc-ca\xE7ador_79"
+    21300160: "orc-ca\xE7ador_80"
+    21300162: "orc-ca\xE7ador_81"
+    21300164: "orc-ca\xE7ador_82"
+    21300166: "orc-ca\xE7ador_83"
+    21300168: "orc-ca\xE7ador_84"
+    21300170: "orc-ca\xE7ador_85"
+    21300172: "orc-ca\xE7ador_86"
+    21300174: "orc-ca\xE7ador_87"
+    21300176: "orc-ca\xE7ador_88"
+    21300178: "orc-ca\xE7ador_89"
+    21300180: "orc-ca\xE7ador_90"
+    21300182: "orc-ca\xE7ador_91"
+    21300184: "orc-ca\xE7ador_92"
+    21300186: "orc-ca\xE7ador_93"
+    21300188: "orc-ca\xE7ador_94"
+    21300190: "orc-ca\xE7ador_95"
+    21300192: "orc-ca\xE7ador_96"
+    21300194: "orc-ca\xE7ador_97"
+    21300196: "orc-ca\xE7ador_98"
+    21300198: "orc-ca\xE7ador_99"
+    21300200: "orc-ca\xE7ador_100"
+    21300202: "orc-ca\xE7ador_101"
+    21300204: "orc-ca\xE7ador_102"
+    21300206: "orc-ca\xE7ador_103"
+    21300208: "orc-ca\xE7ador_104"
+    21300210: "orc-ca\xE7ador_105"
+    21300212: "orc-ca\xE7ador_106"
+    21300214: "orc-ca\xE7ador_107"
+    21300216: "orc-ca\xE7ador_108"
+    21300218: "orc-ca\xE7ador_109"
+    21300220: "orc-ca\xE7ador_110"
+    21300222: "orc-ca\xE7ador_111"
+    21300224: "orc-ca\xE7ador_112"
+    21300226: "orc-ca\xE7ador_113"
+    21300228: "orc-ca\xE7ador_114"
+    21300230: "orc-ca\xE7ador_115"
+    21300232: "orc-ca\xE7ador_116"
+    21300234: "orc-ca\xE7ador_117"
+    21300236: "orc-ca\xE7ador_118"
+    21300238: "orc-ca\xE7ador_119"
+    21300240: "orc-ca\xE7ador_120"
+    21300242: "orc-ca\xE7ador_121"
+    21300244: "orc-ca\xE7ador_122"
+    21300246: "orc-ca\xE7ador_123"
+    21300248: "orc-ca\xE7ador_124"
+    21300250: "orc-ca\xE7ador_125"
+    21300252: "orc-ca\xE7ador_126"
+    21300254: "orc-ca\xE7ador_127"
+    21300256: "orc-ca\xE7ador_128"
+    21300258: "orc-ca\xE7ador_129"
+    21300260: "orc-ca\xE7ador_130"
+    21300262: "orc-ca\xE7ador_131"
+    21300264: "orc-ca\xE7ador_132"
+    21300266: "orc-ca\xE7ador_133"
+    21300268: "orc-ca\xE7ador_134"
+    21300270: "orc-ca\xE7ador_135"
+    21300272: "orc-ca\xE7ador_136"
+    21300274: "orc-ca\xE7ador_137"
+    21300276: "orc-ca\xE7ador_138"
+    21300278: "orc-ca\xE7ador_139"
+    21300280: "orc-ca\xE7ador_140"
+    21300282: "orc-ca\xE7ador_141"
+    21300284: "orc-ca\xE7ador_142"
+    21300286: "orc-ca\xE7ador_143"
+    21300288: "orc-ca\xE7ador_144"
+    21300290: "orc-ca\xE7ador_145"
+    21300292: "orc-ca\xE7ador_146"
+    21300294: "orc-ca\xE7ador_147"
+    21300296: "orc-ca\xE7ador_148"
+    21300298: "orc-ca\xE7ador_149"
+    21300300: "orc-ca\xE7ador_150"
+    21300302: "orc-ca\xE7ador_151"
+    21300304: "orc-ca\xE7ador_152"
+    21300306: "orc-ca\xE7ador_153"
+    21300308: "orc-ca\xE7ador_154"
+    21300310: "orc-ca\xE7ador_155"
+    21300312: "orc-ca\xE7ador_156"
+    21300314: "orc-ca\xE7ador_157"
+    21300316: "orc-ca\xE7ador_158"
+    21300318: "orc-ca\xE7ador_159"
+    21300320: "orc-ca\xE7ador_160"
+    21300322: "orc-ca\xE7ador_161"
+    21300324: "orc-ca\xE7ador_162"
+    21300326: "orc-ca\xE7ador_163"
+    21300328: "orc-ca\xE7ador_164"
+    21300330: "orc-ca\xE7ador_165"
+    21300332: "orc-ca\xE7ador_166"
+    21300334: "orc-ca\xE7ador_167"
+    21300336: "orc-ca\xE7ador_168"
+    21300338: "orc-ca\xE7ador_169"
+    21300340: "orc-ca\xE7ador_170"
+    21300342: "orc-ca\xE7ador_171"
+    21300344: "orc-ca\xE7ador_172"
+    21300346: "orc-ca\xE7ador_173"
+    21300348: "orc-ca\xE7ador_174"
+    21300350: "orc-ca\xE7ador_175"
+    21300352: "orc-ca\xE7ador_176"
+    21300354: "orc-ca\xE7ador_177"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_0"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1282
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_1"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1282
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_2"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1282
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_3"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1282
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_4"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1282
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_5"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1282
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_6"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1282
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_7"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1218
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_8"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1218
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_9"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1218
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_10"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1218
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_11"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1218
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_12"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1218
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_13"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1218
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_14"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1154
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_15"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1154
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_16"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_17"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1154
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_18"
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1154
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_19"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1154
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_20"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1154
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_21"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1090
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_22"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_23"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1090
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_24"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1090
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_25"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1090
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_26"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1090
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_27"
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1090
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_28"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1025
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_29"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_30"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1024
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_31"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_32"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_33"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1024
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_34"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1024
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_35"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1024
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_36"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 962
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_37"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 962
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_38"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 962
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_39"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 962
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_40"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 962
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_41"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_42"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 962
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_43"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 962
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_44"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 898
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_45"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 898
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_46"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 899
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_47"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_48"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 899
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_49"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 899
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_50"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 899
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_51"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_52"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 834
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_53"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_54"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_55"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_56"
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_57"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_58"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_59"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_60"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 770
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_61"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 770
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_62"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 768
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_63"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 768
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_64"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 769
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_65"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 770
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_66"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 768
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_67"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 768
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_68"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 769
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_69"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 706
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_70"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 706
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_71"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 707
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_72"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 707
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_73"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 706
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_74"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 706
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_75"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 706
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_76"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 706
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_77"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 706
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_78"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 642
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_79"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_80"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 641
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_81"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_82"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_83"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 642
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_84"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 641
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_85"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 641
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_86"
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 641
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_87"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 578
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_88"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_89"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 579
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_90"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 579
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_91"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_92"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 578
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_93"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_94"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 578
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_95"
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_96"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_97"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 514
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_98"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 514
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_99"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 514
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_100"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 514
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_101"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 514
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_102"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 450
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_103"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 450
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_104"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 450
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_105"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 450
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_106"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 450
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_107"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_108"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 386
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_109"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_110"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 386
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_111"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 386
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_112"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_113"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 386
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_114"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 322
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_115"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 322
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_116"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 322
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_117"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 322
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_118"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_119"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_120"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_121"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 257
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_122"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_123"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_124"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_125"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_126"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_127"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 256
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_128"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_129"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_130"
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_131"
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_132"
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_133"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_134"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_135"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_136"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 194
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_137"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 194
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_138"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_139"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 194
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_140"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 194
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_141"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 194
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_142"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 194
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_143"
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 194
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_144"
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 194
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_145"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 194
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_146"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_147"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 129
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_148"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_149"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_150"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_151"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 130
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_152"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_153"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 130
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_154"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_155"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_156"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_157"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_158"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_159"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_160"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_161"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_162"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_163"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_164"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 66
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_165"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_166"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_167"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_168"
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_169"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_170"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 66
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_171"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_172"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_173"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_174"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_175"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_176"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "orc-ca\xE7ador_177"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

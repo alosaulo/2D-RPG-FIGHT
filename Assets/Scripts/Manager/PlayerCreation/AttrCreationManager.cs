@@ -1,19 +1,28 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AttrCreationManager : MonoBehaviour {
 
     PlayerCreationManager playerManager;
     PlayerPersona Player;
 
+    [Header("Vida e Mana")]
+    public Text qntLife;
+    public Text qntMana;
 
-	// Use this for initialization
-	void Start () {
+    [Header("Atributos")]
+    public Text forceValue;
+    public Text dexValue;
+    public Text intValue;
+
+    // Use this for initialization
+    void Start () {
         playerManager = GetComponent<PlayerCreationManager>();
         Player = playerManager.PlayerAux;
         Player.lvlpoints = 10;
-        playerManager.ShowAttributes();
+        ShowAttributes();
     }
 
     public void SetAttr(string value)
@@ -64,6 +73,17 @@ public class AttrCreationManager : MonoBehaviour {
                 break;
         }
         Player.ChangeAttrs();
-        playerManager.ShowAttributes();
+        ShowAttributes();
     }
+
+    public void ShowAttributes()
+    {
+        forceValue.text = playerManager.PlayerAux.myAttributes.strength.ToString();
+        dexValue.text = playerManager.PlayerAux.myAttributes.dexterity.ToString();
+        intValue.text = playerManager.PlayerAux.myAttributes.intelligence.ToString();
+        playerManager.txtQntPnts.text = playerManager.PlayerAux.lvlpoints.ToString();
+        qntMana.text = playerManager.PlayerAux.myStats.MAX_manaPoints.ToString();
+        qntLife.text = playerManager.PlayerAux.myStats.MAX_healthPoints.ToString();
+    }
+
 }

@@ -14,7 +14,7 @@ public class Items : MonoBehaviour {
 
     protected virtual void Awake() {
         itemPrefab = gameObject;
-        itemSprite = gameObject.transform.FindChild("Image").GetComponent<Image>().sprite;
+        itemSprite = gameObject.transform.Find("Image").GetComponent<Image>().sprite;
     }
 
 }

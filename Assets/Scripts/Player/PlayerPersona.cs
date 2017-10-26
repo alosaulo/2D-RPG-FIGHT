@@ -6,13 +6,17 @@ using System.Collections.Generic;
 public class PlayerPersona : Persona
 {
 
-    public PlayerController PlayerControl;
+    HealthManaControl myHealthManaGUI;
 
-	[Header("Inventory")]
+    [Header("Inventory")]
     public Inventory myInventory;
 	
 	[Header(("Gold"))]
     public double myGold;
+
+    [Header("Player Controller")]
+    public PlayerController PlayerControl;
+    public int PlayerNumber;
 
     private void Awake()
     {
@@ -22,7 +26,6 @@ public class PlayerPersona : Persona
         myAttributes.intelligence = 0;
         myAttributes.dexterity = 0;
     }
-
 
     public void ChangeAttrs()
     {
@@ -44,10 +47,10 @@ public class PlayerPersona : Persona
                     break;
             }
         }
-        myStats.SetMaxLifePoints(lifePoints);
-        myStats.SetActualLifePoints(lifePoints);
-        myStats.SetMaxManaPoints(manaPoints);
-        myStats.SetActualManaPoints(manaPoints);
+        myStats.healthPoints = lifePoints;
+        myStats.MAX_healthPoints = lifePoints;
+        myStats.manaPoints = manaPoints;
+        myStats.MAX_manaPoints = manaPoints;
     }
 
     public void SetPlayerPersona(PlayerPersona player)
@@ -60,11 +63,35 @@ public class PlayerPersona : Persona
 
     // Use this for initialization
     void Start () {
-        PlayerControl = GetComponent<PlayerController>();;
+        PlayerControl = GetComponent<PlayerController>();
     }
 
-	// Update is called once per frame
-	void Update () {
+    void OnEnable()
+    {
+        
+    }
 
+    public void CheckSceneStats() {
+        if (GameSceneManager._instance != null && PlayerManager._instance != null)
+        {
+            if (GameSceneManager._instance.ActualScene.name.Equals(SceneTags.PlayScene))
+            {
+                PlayerManager._instance.Players.Add(gameObject);
+                myHealthManaGUI = PlayerManager._instance.healthManaControl;
+                ShowMyStats();
+            }
+        }
+    }
+
+    void ShowMyStats() {
+        if(myHealthManaGUI != null) { 
+            myHealthManaGUI.SetHealth(myStats.healthPoints, myStats.MAX_healthPoints, PlayerNumber);
+            myHealthManaGUI.SetMana(myStats.manaPoints, myStats.MAX_manaPoints, PlayerNumber);
+        }
+    }
+
+    // Update is called once per frame
+	void Update () {
+        
 	}
 }

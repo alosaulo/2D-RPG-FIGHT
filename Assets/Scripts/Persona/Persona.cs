@@ -16,18 +16,4 @@ public class Persona : MonoBehaviour
     
     [Header("Total Atk")]protected float ATK;
     [Header("Total Def")]protected float DEF;
-
-    public void Recharge(Potions potion) {
-        float percentage;
-        if (potion.potionType == Potions.PotionType.Health)
-        {
-            percentage = potion.rechargeValue * myStats.MAX_healthPoints;
-            myStats.healthPoints = percentage + myStats.healthPoints;
-        }
-        else {
-            percentage = potion.rechargeValue * myStats.MAX_manaPoints;
-            myStats.manaPoints = percentage + myStats.manaPoints;
-        }
-    }
-
 }

@@ -18,7 +18,7 @@ public class Inventory : MonoBehaviour{
             if (items[i] == null)
             {
                 items[i] = item;
-                slots[i].transform.FindChild("Image").GetComponent<Image>().sprite = item.itemSprite;
+                slots[i].transform.Find("Image").GetComponent<Image>().sprite = item.itemSprite;
                 return;
             }
         }
@@ -31,7 +31,7 @@ public class Inventory : MonoBehaviour{
             if (items[i] == item)
             {
                 items[i] = null;
-                slots[i].transform.FindChild("Image").GetComponent<Image>().sprite = null;
+                slots[i].transform.Find("Image").GetComponent<Image>().sprite = null;
                 return;
             }
         }

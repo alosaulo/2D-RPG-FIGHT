@@ -1,0 +1,2773 @@
+fileFormatVersion: 2
+guid: 084244ccc6822b740ab6b4f22c2926ee
+timeCreated: 1509016728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elfa-arqueira_0
+    21300002: elfa-arqueira_1
+    21300004: elfa-arqueira_2
+    21300006: elfa-arqueira_3
+    21300008: elfa-arqueira_4
+    21300010: elfa-arqueira_5
+    21300012: elfa-arqueira_6
+    21300014: elfa-arqueira_7
+    21300016: elfa-arqueira_8
+    21300018: elfa-arqueira_9
+    21300020: elfa-arqueira_10
+    21300022: elfa-arqueira_11
+    21300024: elfa-arqueira_12
+    21300026: elfa-arqueira_13
+    21300028: elfa-arqueira_14
+    21300030: elfa-arqueira_15
+    21300032: elfa-arqueira_16
+    21300034: elfa-arqueira_17
+    21300036: elfa-arqueira_18
+    21300038: elfa-arqueira_19
+    21300040: elfa-arqueira_20
+    21300042: elfa-arqueira_21
+    21300044: elfa-arqueira_22
+    21300046: elfa-arqueira_23
+    21300048: elfa-arqueira_24
+    21300050: elfa-arqueira_25
+    21300052: elfa-arqueira_26
+    21300054: elfa-arqueira_27
+    21300056: elfa-arqueira_28
+    21300058: elfa-arqueira_29
+    21300060: elfa-arqueira_30
+    21300062: elfa-arqueira_31
+    21300064: elfa-arqueira_32
+    21300066: elfa-arqueira_33
+    21300068: elfa-arqueira_34
+    21300070: elfa-arqueira_35
+    21300072: elfa-arqueira_36
+    21300074: elfa-arqueira_37
+    21300076: elfa-arqueira_38
+    21300078: elfa-arqueira_39
+    21300080: elfa-arqueira_40
+    21300082: elfa-arqueira_41
+    21300084: elfa-arqueira_42
+    21300086: elfa-arqueira_43
+    21300088: elfa-arqueira_44
+    21300090: elfa-arqueira_45
+    21300092: elfa-arqueira_46
+    21300094: elfa-arqueira_47
+    21300096: elfa-arqueira_48
+    21300098: elfa-arqueira_49
+    21300100: elfa-arqueira_50
+    21300102: elfa-arqueira_51
+    21300104: elfa-arqueira_52
+    21300106: elfa-arqueira_53
+    21300108: elfa-arqueira_54
+    21300110: elfa-arqueira_55
+    21300112: elfa-arqueira_56
+    21300114: elfa-arqueira_57
+    21300116: elfa-arqueira_58
+    21300118: elfa-arqueira_59
+    21300120: elfa-arqueira_60
+    21300122: elfa-arqueira_61
+    21300124: elfa-arqueira_62
+    21300126: elfa-arqueira_63
+    21300128: elfa-arqueira_64
+    21300130: elfa-arqueira_65
+    21300132: elfa-arqueira_66
+    21300134: elfa-arqueira_67
+    21300136: elfa-arqueira_68
+    21300138: elfa-arqueira_69
+    21300140: elfa-arqueira_70
+    21300142: elfa-arqueira_71
+    21300144: elfa-arqueira_72
+    21300146: elfa-arqueira_73
+    21300148: elfa-arqueira_74
+    21300150: elfa-arqueira_75
+    21300152: elfa-arqueira_76
+    21300154: elfa-arqueira_77
+    21300156: elfa-arqueira_78
+    21300158: elfa-arqueira_79
+    21300160: elfa-arqueira_80
+    21300162: elfa-arqueira_81
+    21300164: elfa-arqueira_82
+    21300166: elfa-arqueira_83
+    21300168: elfa-arqueira_84
+    21300170: elfa-arqueira_85
+    21300172: elfa-arqueira_86
+    21300174: elfa-arqueira_87
+    21300176: elfa-arqueira_88
+    21300178: elfa-arqueira_89
+    21300180: elfa-arqueira_90
+    21300182: elfa-arqueira_91
+    21300184: elfa-arqueira_92
+    21300186: elfa-arqueira_93
+    21300188: elfa-arqueira_94
+    21300190: elfa-arqueira_95
+    21300192: elfa-arqueira_96
+    21300194: elfa-arqueira_97
+    21300196: elfa-arqueira_98
+    21300198: elfa-arqueira_99
+    21300200: elfa-arqueira_100
+    21300202: elfa-arqueira_101
+    21300204: elfa-arqueira_102
+    21300206: elfa-arqueira_103
+    21300208: elfa-arqueira_104
+    21300210: elfa-arqueira_105
+    21300212: elfa-arqueira_106
+    21300214: elfa-arqueira_107
+    21300216: elfa-arqueira_108
+    21300218: elfa-arqueira_109
+    21300220: elfa-arqueira_110
+    21300222: elfa-arqueira_111
+    21300224: elfa-arqueira_112
+    21300226: elfa-arqueira_113
+    21300228: elfa-arqueira_114
+    21300230: elfa-arqueira_115
+    21300232: elfa-arqueira_116
+    21300234: elfa-arqueira_117
+    21300236: elfa-arqueira_118
+    21300238: elfa-arqueira_119
+    21300240: elfa-arqueira_120
+    21300242: elfa-arqueira_121
+    21300244: elfa-arqueira_122
+    21300246: elfa-arqueira_123
+    21300248: elfa-arqueira_124
+    21300250: elfa-arqueira_125
+    21300252: elfa-arqueira_126
+    21300254: elfa-arqueira_127
+    21300256: elfa-arqueira_128
+    21300258: elfa-arqueira_129
+    21300260: elfa-arqueira_130
+    21300262: elfa-arqueira_131
+    21300264: elfa-arqueira_132
+    21300266: elfa-arqueira_133
+    21300268: elfa-arqueira_134
+    21300270: elfa-arqueira_135
+    21300272: elfa-arqueira_136
+    21300274: elfa-arqueira_137
+    21300276: elfa-arqueira_138
+    21300278: elfa-arqueira_139
+    21300280: elfa-arqueira_140
+    21300282: elfa-arqueira_141
+    21300284: elfa-arqueira_142
+    21300286: elfa-arqueira_143
+    21300288: elfa-arqueira_144
+    21300290: elfa-arqueira_145
+    21300292: elfa-arqueira_146
+    21300294: elfa-arqueira_147
+    21300296: elfa-arqueira_148
+    21300298: elfa-arqueira_149
+    21300300: elfa-arqueira_150
+    21300302: elfa-arqueira_151
+    21300304: elfa-arqueira_152
+    21300306: elfa-arqueira_153
+    21300308: elfa-arqueira_154
+    21300310: elfa-arqueira_155
+    21300312: elfa-arqueira_156
+    21300314: elfa-arqueira_157
+    21300316: elfa-arqueira_158
+    21300318: elfa-arqueira_159
+    21300320: elfa-arqueira_160
+    21300322: elfa-arqueira_161
+    21300324: elfa-arqueira_162
+    21300326: elfa-arqueira_163
+    21300328: elfa-arqueira_164
+    21300330: elfa-arqueira_165
+    21300332: elfa-arqueira_166
+    21300334: elfa-arqueira_167
+    21300336: elfa-arqueira_168
+    21300338: elfa-arqueira_169
+    21300340: elfa-arqueira_170
+    21300342: elfa-arqueira_171
+    21300344: elfa-arqueira_172
+    21300346: elfa-arqueira_173
+    21300348: elfa-arqueira_174
+    21300350: elfa-arqueira_175
+    21300352: elfa-arqueira_176
+    21300354: elfa-arqueira_177
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elfa-arqueira_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1280
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1280
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1280
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1280
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1280
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1280
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1280
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1216
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1216
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1216
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1216
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1216
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1216
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1216
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1152
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1152
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1152
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1152
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1152
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1089
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1089
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1089
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1089
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1023
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1022
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1022
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1022
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1022
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1022
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1022
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_35
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1022
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 960
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 960
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 960
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 960
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 960
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 960
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 960
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_43
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 960
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 896
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 896
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 897
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 897
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 897
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 897
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 833
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 833
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 833
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 833
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 833
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 833
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 768
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 768
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 767
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 766
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 767
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 768
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_66
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 767
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_67
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 766
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_68
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 767
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 704
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 704
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 705
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 705
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 704
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 704
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_75
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 704
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_76
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 704
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_77
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 704
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 640
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 640
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 640
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 577
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 577
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 577
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 577
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 577
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_94
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 577
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_95
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 577
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 513
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_97
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 513
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 513
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 513
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_100
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 513
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_101
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 513
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 448
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 448
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_104
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 448
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 448
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 448
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 384
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 384
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 384
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 384
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 384
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 321
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 321
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 321
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_119
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 321
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 255
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_122
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 254
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 254
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_124
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 254
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 254
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_126
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 254
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_127
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 254
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_128
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 254
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_129
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 254
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_130
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 254
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_131
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 254
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_132
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 254
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_133
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 192
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 192
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_137
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 192
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_138
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 192
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_140
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 192
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 192
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_142
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 192
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_143
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 192
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 192
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_145
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 192
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_147
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 129
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 127
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 128
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_153
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 128
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 127
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 127
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_157
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 127
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_158
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 127
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_159
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 65
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_160
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 65
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 65
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_166
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 65
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_167
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 65
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_168
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 65
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_170
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 65
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_171
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 65
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elfa-arqueira_177
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
