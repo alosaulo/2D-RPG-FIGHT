@@ -52,7 +52,7 @@ public class ClassesCreationManager : MonoBehaviour {
             txtMainSkill2.text = playerManager.PlayerAux.myClass.skills[1].skillName;
             txtSkill1.text = playerManager.PlayerAux.myClass.skills[0].description;
             txtSkill2.text = playerManager.PlayerAux.myClass.skills[1].description;
-            playerManager.ChangeMainPlayer();
+            playerManager.ChangePlayerSprite();
         }
     }
 

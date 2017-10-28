@@ -43,5 +43,4 @@ public class SubmitCreationManager : MonoBehaviour {
             return true;
         }
     }
-
 }

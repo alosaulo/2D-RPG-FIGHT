@@ -32,9 +32,9 @@ public class RacesCreationManager : MonoBehaviour {
         ShowRaceSkills();
     }
 
-    public void SetPlayerDwarf()
+    public void SetPlayerOrc()
     {
-        Player.myRace = new Dwarf();
+        Player.myRace = new Orc();
         ShowRaceSkills();
     }
 
@@ -47,7 +47,7 @@ public class RacesCreationManager : MonoBehaviour {
             forceModValue.text = playerManager.PlayerAux.myRace.modFOR.ToString();
             dexModValue.text = playerManager.PlayerAux.myRace.modDEX.ToString();
             intModValue.text = playerManager.PlayerAux.myRace.modINT.ToString();
-            playerManager.ChangeMainPlayer();
+            playerManager.ChangePlayerSprite();
         }
     }
 }

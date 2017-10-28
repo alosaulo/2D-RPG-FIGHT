@@ -1,12 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine.UI;
 
 [System.Serializable]
 public class PlayerCreationManager : MonoBehaviour
-{   
-    [HideInInspector]
-    public GameObject PlayerGameObject;
+{
+
+    public List<StartCharacters> CharacterSpritesDic;
 
     public PlayerPersona PlayerAux;
 
@@ -15,33 +16,39 @@ public class PlayerCreationManager : MonoBehaviour
     public GameObject PnlWarning;
 
     public Text txtQntPnts;
-   
+
+    public Image imagePersona; 
     
-    // Use this for initialization
     void Start () {
         
 	}
 
-    public void ChangeMainPlayer()
-    {
-        string playerResourceName = "Player";
-        if (PlayerGameObject != null)
+    public void ChangePlayerSprite() {
+        if (PlayerAux.myRace.RaceName != "")
         {
-            Destroy(PlayerGameObject);
-        }
-        if (PlayerAux.myClass.ClassName != "" && PlayerAux.myRace.RaceName != "")
-        {   
-            playerResourceName += PlayerAux.myRace.RaceName;
-            playerResourceName += PlayerAux.myClass.ClassName;
-            Debug.Log(playerResourceName);
-            GameObject gb = Resources.Load(playerResourceName) as GameObject;
-            PlayerGameObject = Instantiate(gb, PlayerSpawn.transform.position, Quaternion.identity);
-            PlayerGameObject.GetComponent<PlayerController>().Speed = 0;
+            if (PlayerAux.myClass.ClassName != "")
+            {
+                imagePersona.color = new Color(1, 1, 1, 1);
+                string job = PlayerAux.GetJobAndRaceNames();
+                Sprite spriteAux = null;
+                foreach (StartCharacters character in CharacterSpritesDic)
+                {
+                    if (character.myName == job) {
+                        spriteAux = character.mySprite;
+                        break;
+                    }
+                }
+                imagePersona.sprite = spriteAux;
+            }
         }
     }
 
     public void SetPlayer()
     {
+        string playerResourceName = "Player";
+        playerResourceName += PlayerAux.GetJobAndRaceNames();
+        GameObject PlayerObject = Resources.Load(playerResourceName) as GameObject;
+        GameObject PlayerGameObject = Instantiate(PlayerObject, PlayerSpawn.transform.position, Quaternion.identity);
         PlayerGameObject.GetComponent<PlayerPersona>().SetPlayerPersona(PlayerAux);
         PlayerGameObject.GetComponent<PlayerController>().Speed = PlayerAux.myAttributes.dexterity * 1000;
     }
